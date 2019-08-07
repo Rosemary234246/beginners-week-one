@@ -1,0 +1,15 @@
+html,body {
+font-family: 'Roboto Mono', monospace;
+colour: red;
+/* background_image: url("https://media2.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif"); */
+
+width: 480px;
+height: 480px;
+left: 0px;
+top: 0px;
+opacity: 50;
+}
+
+h1{
+  colour :red;
+}
